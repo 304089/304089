@@ -1,18 +1,23 @@
-### Hi there 👋
-
-<!--
-**304089/304089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=304089&count_private=true&show_icons=true&theme=dracula" />
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=304089&layout=compact&theme=dracula" />
+<span>
+  <img src="https://komarev.com/ghpvc/?username=304089&label=Profile%20views&color=0e75b6&style=flat" alt="304089" />
+</span>
+<span>
+    <img height="20" src="https://img.shields.io/github/followers/304089?label=follow&logo=github&style=flat" />
+</span>
+<h3 align="left">
+  Languages and Tools:
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </span>
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </span>
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+  </span>
+  <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+  </span>
+</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=304089&show_icons=true&locale=en&layout=compact" alt="304089" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=304089&show_icons=true&locale=en" alt="304089" /></p>
