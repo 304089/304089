@@ -1,3 +1,4 @@
+<h5>🔰 I've just started studying programming.　</h5>
 <span>
   <img src="https://komarev.com/ghpvc/?username=304089&label=Profile%20views&color=0e75b6&style=flat" alt="304089" />
 </span>
