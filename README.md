@@ -19,5 +19,5 @@
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 </span>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=304089&show_icons=true&locale=en&layout=compact" alt="304089" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=304089&show_icons=true&locale=en" alt="304089" /></p>
+<p><img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs?username=304089&show_icons=true&locale=en&layout=compact" alt="304089" /></p>
+<p>&nbsp;<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=304089&show_icons=true&locale=en" alt="304089" /></p>
